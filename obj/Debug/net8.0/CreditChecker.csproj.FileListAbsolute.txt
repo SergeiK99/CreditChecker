@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CreditChecker\CreditChecker\bin\Debug\net8.0\CreditChecker.exe
+C:\Users\User\source\repos\CreditChecker\CreditChecker\bin\Debug\net8.0\CreditChecker.deps.json
+C:\Users\User\source\repos\CreditChecker\CreditChecker\bin\Debug\net8.0\CreditChecker.runtimeconfig.json
+C:\Users\User\source\repos\CreditChecker\CreditChecker\bin\Debug\net8.0\CreditChecker.dll
+C:\Users\User\source\repos\CreditChecker\CreditChecker\bin\Debug\net8.0\CreditChecker.pdb
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\CreditChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\CreditChecker.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\CreditChecker.AssemblyInfo.cs
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\CreditChecker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\CreditChecker.dll
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\refint\CreditChecker.dll
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\CreditChecker.pdb
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\CreditChecker.genruntimeconfig.cache
+C:\Users\User\source\repos\CreditChecker\CreditChecker\obj\Debug\net8.0\ref\CreditChecker.dll
